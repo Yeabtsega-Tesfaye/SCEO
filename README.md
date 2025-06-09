@@ -18,9 +18,6 @@
   <a href="https://Yeabtsega-Tesfaye.github.io/sceo/"><strong>➥ Live Demo</strong></a>
 
 
-  <a href="https://Yeabtsega-Tesfaye.github.io/SCEO/"><strong>➥ Live Demo</strong></a>
-
-
 </div>
 
 <br />
